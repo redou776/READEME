@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Welcome in my git, i am student in University of Le Havre Normandy
 
 
